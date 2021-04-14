@@ -2,6 +2,7 @@
 I'm Bryan, a 20yo Brazilian student, but also tech addict.
 I learning how to programm: C and Python, but I'm also a (not professional) graphic designer (using CorelDRAWx8 most of the time).
 
+<!--
 ## Technology and tools 🛠
 
 ![https://kotlinlang.org](https://img.shields.io/badge/Favourite%20language-Kotlin-yellow?style=flat)
@@ -14,6 +15,7 @@ I learning how to programm: C and Python, but I'm also a (not professional) grap
 ![https://www.figma.com](https://img.shields.io/badge/Design%20tool-Figma-orange?style=flat)
 ![https://www.figma.com](https://img.shields.io/badge/Electric%20Unicycle-KingSong%20KS114D-orange?style=flat)
 
+-->
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=branco2552&show_icons=true&layout=compact)
