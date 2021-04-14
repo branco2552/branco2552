@@ -17,10 +17,10 @@ I learning how to programm: C and Python, but I'm also a (not professional) grap
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=branco2552&show_icons=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=GGorAA&show_icons=true)
+![](https://github-readme-stats.vercel.app/api?username=braco2552&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/pin?username=branco2552&repo=GLaDOS)
-![](https://github-readme-stats.vercel.app/api/pin?username=branco2552&repo=EVCalc)
+![](https://github-readme-stats.vercel.app/api/pin?username=branco2552&repo=faculdade_arquivos)
+![](https://github-readme-stats.vercel.app/api/pin?username=branco2552&repo=Test_site )
 
 ## Contact me📪
 
