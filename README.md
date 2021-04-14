@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I'm branco2552, a 20yo Brazilian student, but also tech addict.
 I learning how to programm: C and Python, but I'm also a (not professional) graphic designer (using CorelDRAWx8 most of the time).
 
