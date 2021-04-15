@@ -4,7 +4,7 @@ I learning how to programm: C and Python, but I'm also a (not professional) grap
 
 ## Technology and tools 🛠
 
-![http://www.open-std.org/jtc1/sc22/wg14/](https://img.shields.io/badge/Favourite%20language-C-gray?style=flat)
+![http://www.open-std.org/jtc1/sc22/wg14/](https://img.shields.io/badge/Favourite%20language-C-red?style=flat)
 ![https://ubuntu.com/blog/ubuntu-server-20-04](https://img.shields.io/badge/Favourite%20OS-Ubuntu%2020.04-purple?style=flat)
 ![https://code.visualstudio.com](https://img.shields.io/badge/Main%20IDE-VS%20Code-blue?style=flat)
 ![https://www.coreldraw.com/en/](https://img.shields.io/badge/Design%20tool-CoreDraw-green?style=flat)
