@@ -2,20 +2,13 @@
 I'm Bryan, a 20yo Brazilian student, but also tech addict.
 I learning how to programm: C and Python, but I'm also a (not professional) graphic designer (using CorelDRAWx8 most of the time).
 
-<!--
 ## Technology and tools 🛠
 
-![https://kotlinlang.org](https://img.shields.io/badge/Favourite%20language-Kotlin-yellow?style=flat)
-![https://github.com/GGorAA/EUCLight](https://img.shields.io/badge/Currently%20working%20on-EVCalc-blue?style=flat)
-![https://www.apple.com/macos](https://img.shields.io/badge/Favourite%20OS-macOS-blue?style=flat)
-![https://ubuntu.com/blog/ubuntu-server-20-04](https://img.shields.io/badge/Favourite%20Server%20OS-Ubuntu%20Server%2020.04-purple?style=flat)
-![https://www.jetbrains.com/idea/](https://img.shields.io/badge/Main%20IDE-IntelliJ%20IDEA-orange?style=flat)
-![https://code.visualstudio.com](https://img.shields.io/badge/Secondary%20IDE-VS%20Code-blue?style=flat)
-![https://gradle.org](https://img.shields.io/badge/Build%20system-Gradle-black?style=flat)
-![https://www.figma.com](https://img.shields.io/badge/Design%20tool-Figma-orange?style=flat)
-![https://www.figma.com](https://img.shields.io/badge/Electric%20Unicycle-KingSong%20KS114D-orange?style=flat)
+![http://www.open-std.org/jtc1/sc22/wg14/](https://img.shields.io/badge/Favourite%20language-C-gray?style=flat)
+![https://ubuntu.com/blog/ubuntu-server-20-04](https://img.shields.io/badge/Favourite%20OS-Ubuntu%2020.04-purple?style=flat)
+![https://code.visualstudio.com](https://img.shields.io/badge/Main%20IDE-VS%20Code-blue?style=flat)
+![https://www.coreldraw.com/en/](https://img.shields.io/badge/Design%20tool-CoreDraw-green?style=flat)
 
--->
 ## GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=branco2552&show_icons=true&layout=compact)
