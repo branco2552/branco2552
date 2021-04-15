@@ -14,7 +14,7 @@ I learning how to programm: C and Python, but I'm also a (not professional) grap
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=branco2552&show_icons=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=branco2552&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/pin?username=branco2552&repo=Deveres_introcomp2016)
+![](https://github-readme-stats.vercel.app/api/pin?username=branco2552&repo=Deveres_introcomp2017)
 ![](https://github-readme-stats.vercel.app/api/pin?username=branco2552&repo=Test_site )
 
 ## Contact me📪
