@@ -20,11 +20,9 @@ I learning how to programm: C and Python, but I'm also a (not professional) grap
 ## Contact me📪
 
 - discord: `Shintaro#2506` - my [projects Discord server](https://discord.gg/JkyzKx9),
-- spotify: [`bryanCropalato`](https://open.spotify.com/user/bryan.cropYnxhORGkRP6alJTiblAn5Q)
+- spotify: [`bryanCropalato`](https://open.spotify.com/user/bryan.cropalato)
 
-
-- spotify: [`busybox`](https://open.spotify.com/user/yha0gdu9143vclyk0cuqoro0m)
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=yha0gdu9143vclyk0cuqoro0m&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=ybryan.cropalato&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 <!--
 **branco2552/branco2552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
