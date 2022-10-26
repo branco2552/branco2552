@@ -17,13 +17,13 @@ I’m currently working on IFES.
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=branco2552&show_icons=true&layout=compact)
 ![](https://github-readme-stats.vercel.app/api?username=branco2552&show_icons=true)
 
-![](https://github-readme-stats.vercel.app/api/pin?username=branco2552&repo=POOII_Java_Pitagoras_2022-1)
+![](https://github-readme-stats.vercel.app/api/pin?username=branco2552&repo=Install_Tlauncher_Script)
 ![](https://github-readme-stats.vercel.app/api/pin?username=branco2552&repo=Deveres_introcomp2017)
 
 ## Contact me📪
 
 
-- discord: `Shintaro#2506` - my [projects Discord server](https://discord.gg/JkyzKx9), 
+- discord: `Shintaro#2506`, 
 
 - spotify: [`bryanCropalato`](https://open.spotify.com/user/bryan.cropalato)
 
